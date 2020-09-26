@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UGD5_F_9618</string>
+    <string name="inputE">Email</string>
+    <string name="inputP">Passsword</string>
+    <string name="register">Sign Up</string>
+    <string name="login">Sign In</string>
+    <string name="logout">Sign Out</string>
+    <string name="judul">Welcome</string>
+</resources>
